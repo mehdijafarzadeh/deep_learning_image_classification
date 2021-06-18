@@ -1,5 +1,4 @@
-# Predict image classes live with your webcam
-
+# live image class prediction with your webcam
 
 - start the program with:
 
